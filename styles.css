@@ -7,6 +7,10 @@ body {
     color: #333;
 }
 
+#title_romulo{
+    font-size: 36px;
+    margin-bottom: 40px;
+}
 header {
     background-color: #4CAF50;
     color: white;
